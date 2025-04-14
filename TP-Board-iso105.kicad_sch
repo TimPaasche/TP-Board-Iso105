@@ -14949,7 +14949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 424.18 160.02 0)
 			(effects
 				(font
@@ -15019,7 +15019,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 293.37 208.2799 0)
 			(effects
 				(font
@@ -15028,7 +15028,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 289.052 207.01 90)
 			(effects
 				(font
@@ -15075,7 +15075,7 @@
 		(at 364.49 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15157,7 +15157,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 351.79 199.0724 90)
 			(effects
 				(font
@@ -15245,7 +15245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 123.19 58.42 0)
 			(effects
 				(font
@@ -15333,7 +15333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 351.79 78.74 0)
 			(effects
 				(font
@@ -15403,7 +15403,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 356.87 199.0724 90)
 			(effects
 				(font
@@ -15491,7 +15491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 85.09 119.38 0)
 			(effects
 				(font
@@ -15579,7 +15579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 294.64 160.02 0)
 			(effects
 				(font
@@ -15635,7 +15635,7 @@
 		(at 154.94 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15717,7 +15717,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 191.77 208.2799 0)
 			(effects
 				(font
@@ -15726,7 +15726,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 187.452 207.01 90)
 			(effects
 				(font
@@ -15805,7 +15805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 256.54 58.42 0)
 			(effects
 				(font
@@ -15861,7 +15861,7 @@
 		(at 383.54 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15929,7 +15929,7 @@
 		(at 154.94 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16029,7 +16029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 161.29 119.38 0)
 			(effects
 				(font
@@ -16099,7 +16099,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 303.507 199.0724 90)
 			(effects
 				(font
@@ -16169,7 +16169,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 285.75 208.2799 0)
 			(effects
 				(font
@@ -16178,7 +16178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 281.432 207.01 90)
 			(effects
 				(font
@@ -16257,7 +16257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 142.24 58.42 0)
 			(effects
 				(font
@@ -16345,7 +16345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 237.49 58.42 0)
 			(effects
 				(font
@@ -16433,7 +16433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 180.34 78.74 0)
 			(effects
 				(font
@@ -16489,7 +16489,7 @@
 		(at 364.49 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16571,7 +16571,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 321.31 199.0724 90)
 			(effects
 				(font
@@ -16641,7 +16641,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 415.29 208.2799 0)
 			(effects
 				(font
@@ -16650,7 +16650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 410.972 207.01 90)
 			(effects
 				(font
@@ -16729,7 +16729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 142.24 119.38 0)
 			(effects
 				(font
@@ -16785,7 +16785,7 @@
 		(at 193.04 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16867,7 +16867,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 227.307 199.0724 90)
 			(effects
 				(font
@@ -16937,7 +16937,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 407.67 199.0724 90)
 			(effects
 				(font
@@ -17007,7 +17007,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 214.63 199.0724 90)
 			(effects
 				(font
@@ -17077,7 +17077,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 186.69 208.2799 0)
 			(effects
 				(font
@@ -17086,7 +17086,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 182.372 207.01 90)
 			(effects
 				(font
@@ -17133,7 +17133,7 @@
 		(at 173.99 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17233,7 +17233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 443.23 139.7 0)
 			(effects
 				(font
@@ -17321,7 +17321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 332.74 78.74 0)
 			(effects
 				(font
@@ -17391,7 +17391,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 273.05 199.0724 90)
 			(effects
 				(font
@@ -17447,7 +17447,7 @@
 		(at 193.04 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17515,7 +17515,7 @@
 		(at 269.24 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17615,7 +17615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 389.89 78.74 0)
 			(effects
 				(font
@@ -17671,7 +17671,7 @@
 		(at 135.89 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17739,7 +17739,7 @@
 		(at 78.74 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17807,7 +17807,7 @@
 		(at 326.39 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17889,7 +17889,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 252.707 208.2799 0)
 			(effects
 				(font
@@ -17898,7 +17898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 248.389 207.01 90)
 			(effects
 				(font
@@ -17945,7 +17945,7 @@
 		(at 173.99 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18045,7 +18045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 275.59 99.06 0)
 			(effects
 				(font
@@ -18115,7 +18115,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 369.57 208.2799 0)
 			(effects
 				(font
@@ -18124,7 +18124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 365.252 207.01 90)
 			(effects
 				(font
@@ -18185,7 +18185,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 387.35 199.0724 90)
 			(effects
 				(font
@@ -18241,7 +18241,7 @@
 		(at 250.19 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18323,7 +18323,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 194.31 199.0724 90)
 			(effects
 				(font
@@ -18393,7 +18393,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 252.707 199.0724 90)
 			(effects
 				(font
@@ -18463,7 +18463,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 278.107 199.0724 90)
 			(effects
 				(font
@@ -18551,7 +18551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 370.84 58.42 0)
 			(effects
 				(font
@@ -18621,7 +18621,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 234.95 199.0724 90)
 			(effects
 				(font
@@ -18709,7 +18709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 294.64 58.42 0)
 			(effects
 				(font
@@ -18797,7 +18797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 313.69 58.42 0)
 			(effects
 				(font
@@ -18867,7 +18867,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 311.15 199.0724 90)
 			(effects
 				(font
@@ -18923,7 +18923,7 @@
 		(at 269.24 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19005,7 +19005,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 179.07 208.2799 0)
 			(effects
 				(font
@@ -19014,7 +19014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 174.752 207.01 90)
 			(effects
 				(font
@@ -19075,7 +19075,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 237.49 199.0724 90)
 			(effects
 				(font
@@ -19145,7 +19145,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 240.03 208.2799 0)
 			(effects
 				(font
@@ -19154,7 +19154,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 235.712 207.01 90)
 			(effects
 				(font
@@ -19215,7 +19215,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 372.11 199.0724 90)
 			(effects
 				(font
@@ -19271,7 +19271,7 @@
 		(at 288.29 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19353,7 +19353,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 229.87 199.0724 90)
 			(effects
 				(font
@@ -19409,7 +19409,7 @@
 		(at 193.04 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19509,7 +19509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 294.64 139.7 0)
 			(effects
 				(font
@@ -19579,7 +19579,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 427.99 199.0724 90)
 			(effects
 				(font
@@ -19649,7 +19649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 334.01 199.0724 90)
 			(effects
 				(font
@@ -19737,7 +19737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 462.28 160.02 0)
 			(effects
 				(font
@@ -19807,7 +19807,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 250.19 208.2799 0)
 			(effects
 				(font
@@ -19816,7 +19816,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 245.872 207.01 90)
 			(effects
 				(font
@@ -19877,7 +19877,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 290.83 199.0724 90)
 			(effects
 				(font
@@ -19947,7 +19947,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 257.81 208.2799 0)
 			(effects
 				(font
@@ -19956,7 +19956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 253.492 207.01 90)
 			(effects
 				(font
@@ -20035,7 +20035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 237.49 78.74 0)
 			(effects
 				(font
@@ -20091,7 +20091,7 @@
 		(at 436.88 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20159,7 +20159,7 @@
 		(at 76.2 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20255,7 +20255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 351.79 160.02 0)
 			(effects
 				(font
@@ -20325,7 +20325,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 199.39 208.2799 0)
 			(effects
 				(font
@@ -20334,7 +20334,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 195.072 207.01 90)
 			(effects
 				(font
@@ -20395,7 +20395,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 191.77 199.0724 90)
 			(effects
 				(font
@@ -20451,7 +20451,7 @@
 		(at 383.54 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20533,7 +20533,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 336.55 199.0724 90)
 			(effects
 				(font
@@ -20603,7 +20603,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 374.65 208.2799 0)
 			(effects
 				(font
@@ -20612,7 +20612,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 370.332 207.01 90)
 			(effects
 				(font
@@ -20659,7 +20659,7 @@
 		(at 173.99 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20759,7 +20759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 104.14 139.7 0)
 			(effects
 				(font
@@ -20815,7 +20815,7 @@
 		(at 288.29 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20897,7 +20897,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 379.707 199.0724 90)
 			(effects
 				(font
@@ -20967,7 +20967,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 318.77 208.2799 0)
 			(effects
 				(font
@@ -20976,7 +20976,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 314.452 207.01 90)
 			(effects
 				(font
@@ -21023,7 +21023,7 @@
 		(at 78.74 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21105,7 +21105,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 194.31 208.2799 0)
 			(effects
 				(font
@@ -21114,7 +21114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 189.992 207.01 90)
 			(effects
 				(font
@@ -21175,7 +21175,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 394.97 199.0724 90)
 			(effects
 				(font
@@ -21245,7 +21245,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 209.55 208.2799 0)
 			(effects
 				(font
@@ -21254,7 +21254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 205.232 207.01 90)
 			(effects
 				(font
@@ -21315,7 +21315,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 339.09 199.0724 90)
 			(effects
 				(font
@@ -21371,7 +21371,7 @@
 		(at 97.79 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21453,7 +21453,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 265.43 208.2799 0)
 			(effects
 				(font
@@ -21462,7 +21462,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 261.112 207.01 90)
 			(effects
 				(font
@@ -21541,7 +21541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 199.39 58.42 0)
 			(effects
 				(font
@@ -21629,7 +21629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 237.49 99.06 0)
 			(effects
 				(font
@@ -21685,7 +21685,7 @@
 		(at 130.81 223.52 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2c2a1b14-624e-4996-ae35-184b2d184149")
@@ -21877,7 +21877,7 @@
 		(at 307.34 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21945,7 +21945,7 @@
 		(at 250.19 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -22027,7 +22027,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 349.25 208.2799 0)
 			(effects
 				(font
@@ -22036,7 +22036,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 344.932 207.01 90)
 			(effects
 				(font
@@ -22097,7 +22097,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 328.907 208.2799 0)
 			(effects
 				(font
@@ -22106,7 +22106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 324.589 207.01 90)
 			(effects
 				(font
@@ -22153,7 +22153,7 @@
 		(at 78.74 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -22221,7 +22221,7 @@
 		(at 135.89 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -22303,7 +22303,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 392.43 199.0724 90)
 			(effects
 				(font
@@ -22359,7 +22359,7 @@
 		(at 364.49 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -22427,7 +22427,7 @@
 		(at 326.39 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -22509,7 +22509,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 356.87 208.2799 0)
 			(effects
 				(font
@@ -22518,7 +22518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 352.552 207.01 90)
 			(effects
 				(font
@@ -22579,7 +22579,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 394.97 208.2799 0)
 			(effects
 				(font
@@ -22588,7 +22588,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 390.652 207.01 90)
 			(effects
 				(font
@@ -22667,7 +22667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 85.09 99.06 0)
 			(effects
 				(font
@@ -22737,7 +22737,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 270.51 199.0724 90)
 			(effects
 				(font
@@ -22807,7 +22807,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 176.507 208.2799 0)
 			(effects
 				(font
@@ -22816,7 +22816,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 172.189 207.01 90)
 			(effects
 				(font
@@ -22877,7 +22877,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 359.41 199.0724 90)
 			(effects
 				(font
@@ -22947,7 +22947,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 425.45 199.0724 90)
 			(effects
 				(font
@@ -23003,7 +23003,7 @@
 		(at 417.83 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23103,7 +23103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 389.89 99.06 0)
 			(effects
 				(font
@@ -23173,7 +23173,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 400.05 208.2799 0)
 			(effects
 				(font
@@ -23182,7 +23182,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 395.732 207.01 90)
 			(effects
 				(font
@@ -23243,7 +23243,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 199.39 199.0724 90)
 			(effects
 				(font
@@ -23313,7 +23313,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 227.307 208.2799 0)
 			(effects
 				(font
@@ -23322,7 +23322,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 222.989 207.01 90)
 			(effects
 				(font
@@ -23369,7 +23369,7 @@
 		(at 326.39 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23451,7 +23451,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 290.83 208.2799 0)
 			(effects
 				(font
@@ -23460,7 +23460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 286.512 207.01 90)
 			(effects
 				(font
@@ -23521,7 +23521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 412.75 208.2799 0)
 			(effects
 				(font
@@ -23530,7 +23530,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 408.432 207.01 90)
 			(effects
 				(font
@@ -23609,7 +23609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 313.69 160.02 0)
 			(effects
 				(font
@@ -23697,7 +23697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 443.23 78.74 0)
 			(effects
 				(font
@@ -23767,7 +23767,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 270.51 208.2799 0)
 			(effects
 				(font
@@ -23776,7 +23776,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 266.192 207.01 90)
 			(effects
 				(font
@@ -23837,7 +23837,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 201.907 199.0724 90)
 			(effects
 				(font
@@ -23893,7 +23893,7 @@
 		(at 288.29 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23975,7 +23975,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 257.81 199.0724 90)
 			(effects
 				(font
@@ -24063,7 +24063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 313.69 99.06 0)
 			(effects
 				(font
@@ -24151,7 +24151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 332.74 160.02 0)
 			(effects
 				(font
@@ -24221,7 +24221,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 351.79 208.2799 0)
 			(effects
 				(font
@@ -24230,7 +24230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 347.472 207.01 90)
 			(effects
 				(font
@@ -24291,7 +24291,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 212.09 199.0724 90)
 			(effects
 				(font
@@ -24379,7 +24379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 332.74 139.7 0)
 			(effects
 				(font
@@ -24449,7 +24449,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 219.71 199.0724 90)
 			(effects
 				(font
@@ -24519,7 +24519,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 308.61 208.2799 0)
 			(effects
 				(font
@@ -24528,7 +24528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 304.292 207.01 90)
 			(effects
 				(font
@@ -24589,7 +24589,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 262.89 199.0724 90)
 			(effects
 				(font
@@ -24645,7 +24645,7 @@
 		(at 288.29 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -24727,7 +24727,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 234.95 208.2799 0)
 			(effects
 				(font
@@ -24736,7 +24736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 230.632 207.01 90)
 			(effects
 				(font
@@ -24783,7 +24783,7 @@
 		(at 269.24 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -24851,7 +24851,7 @@
 		(at 173.99 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -24919,7 +24919,7 @@
 		(at 76.2 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -24997,7 +24997,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 344.17 199.0724 90)
 			(effects
 				(font
@@ -25053,7 +25053,7 @@
 		(at 212.09 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25121,7 +25121,7 @@
 		(at 250.19 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25203,7 +25203,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 339.09 208.2799 0)
 			(effects
 				(font
@@ -25212,7 +25212,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 334.772 207.01 90)
 			(effects
 				(font
@@ -25259,7 +25259,7 @@
 		(at 436.88 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25359,7 +25359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 218.44 58.42 0)
 			(effects
 				(font
@@ -25429,7 +25429,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 280.67 199.0724 90)
 			(effects
 				(font
@@ -25499,7 +25499,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 260.35 208.2799 0)
 			(effects
 				(font
@@ -25508,7 +25508,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 256.032 207.01 90)
 			(effects
 				(font
@@ -25587,7 +25587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 161.29 58.42 0)
 			(effects
 				(font
@@ -25657,7 +25657,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 288.29 199.0724 90)
 			(effects
 				(font
@@ -25745,7 +25745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 294.64 119.38 0)
 			(effects
 				(font
@@ -25833,7 +25833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 218.44 99.06 0)
 			(effects
 				(font
@@ -25921,7 +25921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 123.19 78.74 0)
 			(effects
 				(font
@@ -25991,7 +25991,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 204.47 208.2799 0)
 			(effects
 				(font
@@ -26000,7 +26000,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 200.152 207.01 90)
 			(effects
 				(font
@@ -26061,7 +26061,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 293.37 199.0724 90)
 			(effects
 				(font
@@ -26131,7 +26131,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 232.41 208.2799 0)
 			(effects
 				(font
@@ -26140,7 +26140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 228.092 207.01 90)
 			(effects
 				(font
@@ -26201,7 +26201,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 306.07 208.2799 0)
 			(effects
 				(font
@@ -26210,7 +26210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 301.752 207.01 90)
 			(effects
 				(font
@@ -26257,7 +26257,7 @@
 		(at 345.44 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26339,7 +26339,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 179.07 199.0724 90)
 			(effects
 				(font
@@ -26395,7 +26395,7 @@
 		(at 116.84 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26463,7 +26463,7 @@
 		(at 116.84 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26545,7 +26545,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 308.61 199.0724 90)
 			(effects
 				(font
@@ -26615,7 +26615,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 217.17 199.0724 90)
 			(effects
 				(font
@@ -26685,7 +26685,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 265.43 199.0724 90)
 			(effects
 				(font
@@ -26755,7 +26755,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 260.35 199.0724 90)
 			(effects
 				(font
@@ -26843,7 +26843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 161.29 78.74 0)
 			(effects
 				(font
@@ -26899,7 +26899,7 @@
 		(at 212.09 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26981,7 +26981,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 283.21 208.2799 0)
 			(effects
 				(font
@@ -26990,7 +26990,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 278.892 207.01 90)
 			(effects
 				(font
@@ -27051,7 +27051,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 217.17 208.2799 0)
 			(effects
 				(font
@@ -27060,7 +27060,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 212.852 207.01 90)
 			(effects
 				(font
@@ -27139,7 +27139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 104.14 119.38 0)
 			(effects
 				(font
@@ -27195,7 +27195,7 @@
 		(at 269.24 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27263,7 +27263,7 @@
 		(at 116.84 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27363,7 +27363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 481.33 99.06 0)
 			(effects
 				(font
@@ -27451,7 +27451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 481.33 139.7 0)
 			(effects
 				(font
@@ -27521,7 +27521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 405.107 199.0724 90)
 			(effects
 				(font
@@ -27577,7 +27577,7 @@
 		(at 97.79 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27655,7 +27655,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 214.63 208.2799 0)
 			(effects
 				(font
@@ -27664,7 +27664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 210.312 207.01 90)
 			(effects
 				(font
@@ -27725,7 +27725,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 186.69 199.0724 90)
 			(effects
 				(font
@@ -27781,7 +27781,7 @@
 		(at 231.14 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27863,7 +27863,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 184.15 199.0724 90)
 			(effects
 				(font
@@ -27919,7 +27919,7 @@
 		(at 231.14 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -28019,7 +28019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 104.14 160.02 0)
 			(effects
 				(font
@@ -28089,7 +28089,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 341.63 199.0724 90)
 			(effects
 				(font
@@ -28159,7 +28159,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 283.21 199.0724 90)
 			(effects
 				(font
@@ -28229,7 +28229,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 168.91 199.0724 90)
 			(effects
 				(font
@@ -28285,7 +28285,7 @@
 		(at 436.88 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -28353,7 +28353,7 @@
 		(at 326.39 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -28435,7 +28435,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 255.27 199.0724 90)
 			(effects
 				(font
@@ -28558,7 +28558,7 @@
 		(at 135.89 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -28640,7 +28640,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 224.79 208.2799 0)
 			(effects
 				(font
@@ -28649,7 +28649,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 220.472 207.01 90)
 			(effects
 				(font
@@ -28696,7 +28696,7 @@
 		(at 154.94 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -28778,7 +28778,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 288.29 208.2799 0)
 			(effects
 				(font
@@ -28787,7 +28787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 283.972 207.01 90)
 			(effects
 				(font
@@ -28866,7 +28866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 275.59 58.42 0)
 			(effects
 				(font
@@ -28936,7 +28936,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 247.65 208.2799 0)
 			(effects
 				(font
@@ -28945,7 +28945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 243.332 207.01 90)
 			(effects
 				(font
@@ -28992,7 +28992,7 @@
 		(at 269.24 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29074,7 +29074,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 318.77 199.0724 90)
 			(effects
 				(font
@@ -29144,7 +29144,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 346.71 208.2799 0)
 			(effects
 				(font
@@ -29153,7 +29153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 342.392 207.01 90)
 			(effects
 				(font
@@ -29200,7 +29200,7 @@
 		(at 193.04 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29268,7 +29268,7 @@
 		(at 135.89 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29368,7 +29368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 104.14 99.06 0)
 			(effects
 				(font
@@ -29438,7 +29438,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 427.99 208.2799 0)
 			(effects
 				(font
@@ -29447,7 +29447,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 423.672 207.01 90)
 			(effects
 				(font
@@ -29526,7 +29526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 180.34 58.42 0)
 			(effects
 				(font
@@ -29582,7 +29582,7 @@
 		(at 193.04 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29650,7 +29650,7 @@
 		(at 78.74 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29732,7 +29732,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 420.37 199.0724 90)
 			(effects
 				(font
@@ -29820,7 +29820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 123.19 160.02 0)
 			(effects
 				(font
@@ -29890,7 +29890,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 392.43 208.2799 0)
 			(effects
 				(font
@@ -29899,7 +29899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 388.112 207.01 90)
 			(effects
 				(font
@@ -29960,7 +29960,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 204.47 199.0724 90)
 			(effects
 				(font
@@ -30030,7 +30030,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 417.83 208.2799 0)
 			(effects
 				(font
@@ -30039,7 +30039,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 413.512 207.01 90)
 			(effects
 				(font
@@ -30118,7 +30118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 104.14 78.74 0)
 			(effects
 				(font
@@ -30206,7 +30206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 123.19 119.38 0)
 			(effects
 				(font
@@ -30294,7 +30294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 424.18 99.06 0)
 			(effects
 				(font
@@ -30364,7 +30364,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 412.75 199.0724 90)
 			(effects
 				(font
@@ -30452,7 +30452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 370.84 160.02 0)
 			(effects
 				(font
@@ -30508,7 +30508,7 @@
 		(at 193.04 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -30590,7 +30590,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 168.91 208.2799 0)
 			(effects
 				(font
@@ -30599,7 +30599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 164.592 207.01 90)
 			(effects
 				(font
@@ -30646,7 +30646,7 @@
 		(at 307.34 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -30746,7 +30746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 142.24 78.74 0)
 			(effects
 				(font
@@ -30834,7 +30834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 85.09 160.02 0)
 			(effects
 				(font
@@ -30922,7 +30922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 218.44 78.74 0)
 			(effects
 				(font
@@ -30978,7 +30978,7 @@
 		(at 173.99 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -31046,7 +31046,7 @@
 		(at 116.84 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -31146,7 +31146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 237.49 139.7 0)
 			(effects
 				(font
@@ -31216,7 +31216,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 173.99 199.0724 90)
 			(effects
 				(font
@@ -31272,7 +31272,7 @@
 		(at 455.93 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -31372,7 +31372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 294.64 99.06 0)
 			(effects
 				(font
@@ -31442,7 +31442,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 417.83 199.0724 90)
 			(effects
 				(font
@@ -31498,7 +31498,7 @@
 		(at 326.39 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -31566,7 +31566,7 @@
 		(at 474.98 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -31666,7 +31666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 161.29 99.06 0)
 			(effects
 				(font
@@ -31722,7 +31722,7 @@
 		(at 269.24 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -31790,7 +31790,7 @@
 		(at 417.83 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -31872,7 +31872,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 306.07 199.0724 90)
 			(effects
 				(font
@@ -31942,7 +31942,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 405.107 208.2799 0)
 			(effects
 				(font
@@ -31951,7 +31951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 400.789 207.01 90)
 			(effects
 				(font
@@ -32030,7 +32030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 199.39 139.7 0)
 			(effects
 				(font
@@ -32100,7 +32100,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 224.79 199.0724 90)
 			(effects
 				(font
@@ -32170,7 +32170,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 354.307 199.0724 90)
 			(effects
 				(font
@@ -32226,7 +32226,7 @@
 		(at 212.09 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -32308,7 +32308,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 361.95 199.0724 90)
 			(effects
 				(font
@@ -32378,7 +32378,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 326.39 208.2799 0)
 			(effects
 				(font
@@ -32387,7 +32387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 322.072 207.01 90)
 			(effects
 				(font
@@ -32466,7 +32466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 424.18 139.7 0)
 			(effects
 				(font
@@ -32554,7 +32554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 370.84 139.7 0)
 			(effects
 				(font
@@ -32624,7 +32624,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 209.55 199.0724 90)
 			(effects
 				(font
@@ -32712,7 +32712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 199.39 119.38 0)
 			(effects
 				(font
@@ -32782,7 +32782,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 273.05 208.2799 0)
 			(effects
 				(font
@@ -32791,7 +32791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 268.732 207.01 90)
 			(effects
 				(font
@@ -32838,7 +32838,7 @@
 		(at 307.34 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -32938,7 +32938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 462.28 139.7 0)
 			(effects
 				(font
@@ -33008,7 +33008,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 341.63 208.2799 0)
 			(effects
 				(font
@@ -33017,7 +33017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 337.312 207.01 90)
 			(effects
 				(font
@@ -33096,7 +33096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 424.18 78.74 0)
 			(effects
 				(font
@@ -33152,7 +33152,7 @@
 		(at 417.83 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -33252,7 +33252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 142.24 99.06 0)
 			(effects
 				(font
@@ -33322,7 +33322,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 237.49 208.2799 0)
 			(effects
 				(font
@@ -33331,7 +33331,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 233.172 207.01 90)
 			(effects
 				(font
@@ -33378,7 +33378,7 @@
 		(at 455.93 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -33460,7 +33460,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 240.03 199.0724 90)
 			(effects
 				(font
@@ -33530,7 +33530,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 377.19 208.2799 0)
 			(effects
 				(font
@@ -33539,7 +33539,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 372.872 207.01 90)
 			(effects
 				(font
@@ -33618,7 +33618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 218.44 139.7 0)
 			(effects
 				(font
@@ -33706,7 +33706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 256.54 119.38 0)
 			(effects
 				(font
@@ -33776,7 +33776,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 303.507 208.2799 0)
 			(effects
 				(font
@@ -33785,7 +33785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 299.189 207.01 90)
 			(effects
 				(font
@@ -33864,7 +33864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 389.89 58.42 0)
 			(effects
 				(font
@@ -33920,7 +33920,7 @@
 		(at 345.44 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -34002,7 +34002,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 382.27 208.2799 0)
 			(effects
 				(font
@@ -34011,7 +34011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 377.952 207.01 90)
 			(effects
 				(font
@@ -34090,7 +34090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 275.59 119.38 0)
 			(effects
 				(font
@@ -34178,7 +34178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 85.09 78.74 0)
 			(effects
 				(font
@@ -34248,7 +34248,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 275.59 208.2799 0)
 			(effects
 				(font
@@ -34257,7 +34257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 271.272 207.01 90)
 			(effects
 				(font
@@ -34318,7 +34318,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 196.85 208.2799 0)
 			(effects
 				(font
@@ -34327,7 +34327,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 192.532 207.01 90)
 			(effects
 				(font
@@ -34388,7 +34388,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 361.95 208.2799 0)
 			(effects
 				(font
@@ -34397,7 +34397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 357.632 207.01 90)
 			(effects
 				(font
@@ -34458,7 +34458,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 372.11 208.2799 0)
 			(effects
 				(font
@@ -34467,7 +34467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 367.792 207.01 90)
 			(effects
 				(font
@@ -34528,7 +34528,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 196.85 199.0724 90)
 			(effects
 				(font
@@ -34598,7 +34598,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 166.37 199.0724 90)
 			(effects
 				(font
@@ -34686,7 +34686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 313.69 78.74 0)
 			(effects
 				(font
@@ -34756,7 +34756,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 415.29 199.0724 90)
 			(effects
 				(font
@@ -34826,7 +34826,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 344.17 208.2799 0)
 			(effects
 				(font
@@ -34835,7 +34835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 339.852 207.01 90)
 			(effects
 				(font
@@ -34896,7 +34896,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 323.85 199.0724 90)
 			(effects
 				(font
@@ -34966,7 +34966,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 298.45 208.2799 0)
 			(effects
 				(font
@@ -34975,7 +34975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 294.132 207.01 90)
 			(effects
 				(font
@@ -35022,7 +35022,7 @@
 		(at 364.49 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -35090,7 +35090,7 @@
 		(at 78.74 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -35172,7 +35172,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 242.57 208.2799 0)
 			(effects
 				(font
@@ -35181,7 +35181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 238.252 207.01 90)
 			(effects
 				(font
@@ -35260,7 +35260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 142.24 139.7 0)
 			(effects
 				(font
@@ -35330,7 +35330,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 334.01 208.2799 0)
 			(effects
 				(font
@@ -35339,7 +35339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 329.692 207.01 90)
 			(effects
 				(font
@@ -35400,7 +35400,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 384.81 208.2799 0)
 			(effects
 				(font
@@ -35409,7 +35409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 380.492 207.01 90)
 			(effects
 				(font
@@ -35470,7 +35470,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 166.37 208.2799 0)
 			(effects
 				(font
@@ -35479,7 +35479,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.052 207.01 90)
 			(effects
 				(font
@@ -35558,7 +35558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 481.33 78.74 0)
 			(effects
 				(font
@@ -35614,7 +35614,7 @@
 		(at 364.49 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -35682,7 +35682,7 @@
 		(at 417.83 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -35750,7 +35750,7 @@
 		(at 288.29 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -35832,7 +35832,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 422.91 208.2799 0)
 			(effects
 				(font
@@ -35841,7 +35841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 418.592 207.01 90)
 			(effects
 				(font
@@ -35888,7 +35888,7 @@
 		(at 231.14 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -35988,7 +35988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 275.59 139.7 0)
 			(effects
 				(font
@@ -36058,7 +36058,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 326.39 199.0724 90)
 			(effects
 				(font
@@ -36128,7 +36128,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 229.87 208.2799 0)
 			(effects
 				(font
@@ -36137,7 +36137,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 225.552 207.01 90)
 			(effects
 				(font
@@ -36216,7 +36216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 123.19 99.06 0)
 			(effects
 				(font
@@ -36304,7 +36304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 332.74 99.06 0)
 			(effects
 				(font
@@ -36374,7 +36374,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 336.55 208.2799 0)
 			(effects
 				(font
@@ -36383,7 +36383,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 332.232 207.01 90)
 			(effects
 				(font
@@ -36444,7 +36444,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 349.25 199.0724 90)
 			(effects
 				(font
@@ -36532,7 +36532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 462.28 119.38 0)
 			(effects
 				(font
@@ -36602,7 +36602,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 430.507 199.0724 90)
 			(effects
 				(font
@@ -36690,7 +36690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 424.18 119.38 0)
 			(effects
 				(font
@@ -36760,7 +36760,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 397.51 208.2799 0)
 			(effects
 				(font
@@ -36769,7 +36769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 393.192 207.01 90)
 			(effects
 				(font
@@ -36830,7 +36830,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 275.59 199.0724 90)
 			(effects
 				(font
@@ -36900,7 +36900,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 331.47 208.2799 0)
 			(effects
 				(font
@@ -36909,7 +36909,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 327.152 207.01 90)
 			(effects
 				(font
@@ -36970,7 +36970,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 222.25 208.2799 0)
 			(effects
 				(font
@@ -36979,7 +36979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 217.932 207.01 90)
 			(effects
 				(font
@@ -37026,7 +37026,7 @@
 		(at 288.29 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -37108,7 +37108,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 181.61 208.2799 0)
 			(effects
 				(font
@@ -37117,7 +37117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 177.292 207.01 90)
 			(effects
 				(font
@@ -37196,7 +37196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 256.54 139.7 0)
 			(effects
 				(font
@@ -37266,7 +37266,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 295.91 199.0724 90)
 			(effects
 				(font
@@ -37322,7 +37322,7 @@
 		(at 250.19 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -37422,7 +37422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 462.28 78.74 0)
 			(effects
 				(font
@@ -37478,7 +37478,7 @@
 		(at 154.94 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -37546,7 +37546,7 @@
 		(at 250.19 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -37628,7 +37628,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 171.45 208.2799 0)
 			(effects
 				(font
@@ -37637,7 +37637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 167.132 207.01 90)
 			(effects
 				(font
@@ -37716,7 +37716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 199.39 160.02 0)
 			(effects
 				(font
@@ -37772,7 +37772,7 @@
 		(at 212.09 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -37840,7 +37840,7 @@
 		(at 231.14 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -37940,7 +37940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 85.09 139.7 0)
 			(effects
 				(font
@@ -38010,7 +38010,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 364.49 208.2799 0)
 			(effects
 				(font
@@ -38019,7 +38019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 360.172 207.01 90)
 			(effects
 				(font
@@ -38080,7 +38080,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 176.507 199.0724 90)
 			(effects
 				(font
@@ -38150,7 +38150,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 382.27 199.0724 90)
 			(effects
 				(font
@@ -38220,7 +38220,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 181.61 199.0724 90)
 			(effects
 				(font
@@ -38276,7 +38276,7 @@
 		(at 116.84 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -38358,7 +38358,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 369.57 199.0724 90)
 			(effects
 				(font
@@ -38446,7 +38446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 351.79 58.42 0)
 			(effects
 				(font
@@ -38534,7 +38534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 180.34 99.06 0)
 			(effects
 				(font
@@ -38604,7 +38604,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 313.69 199.0724 90)
 			(effects
 				(font
@@ -38660,7 +38660,7 @@
 		(at 231.14 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -38742,7 +38742,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 207.01 199.0724 90)
 			(effects
 				(font
@@ -38798,7 +38798,7 @@
 		(at 97.79 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -38894,7 +38894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 199.39 78.74 0)
 			(effects
 				(font
@@ -38964,7 +38964,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 313.69 208.2799 0)
 			(effects
 				(font
@@ -38973,7 +38973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 309.372 207.01 90)
 			(effects
 				(font
@@ -39034,7 +39034,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 397.51 199.0724 90)
 			(effects
 				(font
@@ -39104,7 +39104,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 389.89 208.2799 0)
 			(effects
 				(font
@@ -39113,7 +39113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 385.572 207.01 90)
 			(effects
 				(font
@@ -39160,7 +39160,7 @@
 		(at 78.74 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -39228,7 +39228,7 @@
 		(at 417.83 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -39296,7 +39296,7 @@
 		(at 212.09 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -39396,7 +39396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 161.29 139.7 0)
 			(effects
 				(font
@@ -39466,7 +39466,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 367.03 208.2799 0)
 			(effects
 				(font
@@ -39475,7 +39475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 362.712 207.01 90)
 			(effects
 				(font
@@ -39536,7 +39536,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 410.21 199.0724 90)
 			(effects
 				(font
@@ -39606,7 +39606,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 420.37 208.2799 0)
 			(effects
 				(font
@@ -39615,7 +39615,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 416.052 207.01 90)
 			(effects
 				(font
@@ -39694,7 +39694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 275.59 78.74 0)
 			(effects
 				(font
@@ -39782,7 +39782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 199.39 99.06 0)
 			(effects
 				(font
@@ -39852,7 +39852,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 201.907 208.2799 0)
 			(effects
 				(font
@@ -39861,7 +39861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 197.589 207.01 90)
 			(effects
 				(font
@@ -39908,7 +39908,7 @@
 		(at 97.79 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -39990,7 +39990,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 184.15 208.2799 0)
 			(effects
 				(font
@@ -39999,7 +39999,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 179.832 207.01 90)
 			(effects
 				(font
@@ -40060,7 +40060,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 300.99 208.2799 0)
 			(effects
 				(font
@@ -40069,7 +40069,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 296.672 207.01 90)
 			(effects
 				(font
@@ -40130,7 +40130,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 171.45 199.0724 90)
 			(effects
 				(font
@@ -40200,7 +40200,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 245.11 199.0724 90)
 			(effects
 				(font
@@ -40256,7 +40256,7 @@
 		(at 135.89 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -40324,7 +40324,7 @@
 		(at 154.94 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -40406,7 +40406,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 328.907 199.0724 90)
 			(effects
 				(font
@@ -40494,7 +40494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 443.23 99.06 0)
 			(effects
 				(font
@@ -40564,7 +40564,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 285.75 199.0724 90)
 			(effects
 				(font
@@ -40634,7 +40634,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 316.23 208.2799 0)
 			(effects
 				(font
@@ -40643,7 +40643,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 311.912 207.01 90)
 			(effects
 				(font
@@ -40704,7 +40704,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 400.05 199.0724 90)
 			(effects
 				(font
@@ -40774,7 +40774,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 402.59 208.2799 0)
 			(effects
 				(font
@@ -40783,7 +40783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 398.272 207.01 90)
 			(effects
 				(font
@@ -40844,7 +40844,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 280.67 208.2799 0)
 			(effects
 				(font
@@ -40853,7 +40853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 276.352 207.01 90)
 			(effects
 				(font
@@ -40914,7 +40914,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 267.97 199.0724 90)
 			(effects
 				(font
@@ -40984,7 +40984,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 298.45 199.0724 90)
 			(effects
 				(font
@@ -41054,7 +41054,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 242.57 199.0724 90)
 			(effects
 				(font
@@ -41124,7 +41124,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 232.41 199.0724 90)
 			(effects
 				(font
@@ -41180,7 +41180,7 @@
 		(at 97.79 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -41248,7 +41248,7 @@
 		(at 116.84 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -41348,7 +41348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 370.84 78.74 0)
 			(effects
 				(font
@@ -41436,7 +41436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 218.44 119.38 0)
 			(effects
 				(font
@@ -41506,7 +41506,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 407.67 208.2799 0)
 			(effects
 				(font
@@ -41515,7 +41515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 403.352 207.01 90)
 			(effects
 				(font
@@ -41576,7 +41576,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 387.35 208.2799 0)
 			(effects
 				(font
@@ -41585,7 +41585,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 383.032 207.01 90)
 			(effects
 				(font
@@ -41646,7 +41646,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 364.49 199.0724 90)
 			(effects
 				(font
@@ -41734,7 +41734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 180.34 139.7 0)
 			(effects
 				(font
@@ -41804,7 +41804,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 384.81 199.0724 90)
 			(effects
 				(font
@@ -41892,7 +41892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 370.84 99.06 0)
 			(effects
 				(font
@@ -41962,7 +41962,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 300.99 199.0724 90)
 			(effects
 				(font
@@ -42032,7 +42032,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 402.59 199.0724 90)
 			(effects
 				(font
@@ -42102,7 +42102,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 295.91 208.2799 0)
 			(effects
 				(font
@@ -42111,7 +42111,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 291.592 207.01 90)
 			(effects
 				(font
@@ -42190,7 +42190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 389.89 160.02 0)
 			(effects
 				(font
@@ -42260,7 +42260,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 321.31 208.2799 0)
 			(effects
 				(font
@@ -42269,7 +42269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 316.992 207.01 90)
 			(effects
 				(font
@@ -42316,7 +42316,7 @@
 		(at 345.44 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -42416,7 +42416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 237.49 119.38 0)
 			(effects
 				(font
@@ -42472,7 +42472,7 @@
 		(at 97.79 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -42572,7 +42572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 275.59 160.02 0)
 			(effects
 				(font
@@ -42660,7 +42660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 351.79 99.06 0)
 			(effects
 				(font
@@ -42716,7 +42716,7 @@
 		(at 307.34 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -42798,7 +42798,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 359.41 208.2799 0)
 			(effects
 				(font
@@ -42807,7 +42807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 355.092 207.01 90)
 			(effects
 				(font
@@ -42868,7 +42868,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 189.23 208.2799 0)
 			(effects
 				(font
@@ -42877,7 +42877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 184.912 207.01 90)
 			(effects
 				(font
@@ -42938,7 +42938,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 379.707 208.2799 0)
 			(effects
 				(font
@@ -42947,7 +42947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 375.389 207.01 90)
 			(effects
 				(font
@@ -42994,7 +42994,7 @@
 		(at 455.93 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -43076,7 +43076,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 219.71 208.2799 0)
 			(effects
 				(font
@@ -43085,7 +43085,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 215.392 207.01 90)
 			(effects
 				(font
@@ -43164,7 +43164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 443.23 119.38 0)
 			(effects
 				(font
@@ -43252,7 +43252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 313.69 119.38 0)
 			(effects
 				(font
@@ -43322,7 +43322,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 247.65 199.0724 90)
 			(effects
 				(font
@@ -43378,7 +43378,7 @@
 		(at 455.93 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -43446,7 +43446,7 @@
 		(at 474.98 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -43528,7 +43528,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 331.47 199.0724 90)
 			(effects
 				(font
@@ -43598,7 +43598,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 212.09 208.2799 0)
 			(effects
 				(font
@@ -43607,7 +43607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 207.772 207.01 90)
 			(effects
 				(font
@@ -43668,7 +43668,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 173.99 208.2799 0)
 			(effects
 				(font
@@ -43677,7 +43677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 169.672 207.01 90)
 			(effects
 				(font
@@ -43724,7 +43724,7 @@
 		(at 345.44 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -43806,7 +43806,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 354.307 208.2799 0)
 			(effects
 				(font
@@ -43815,7 +43815,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 349.989 207.01 90)
 			(effects
 				(font
@@ -43942,7 +43942,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 425.45 208.2799 0)
 			(effects
 				(font
@@ -43951,7 +43951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 421.132 207.01 90)
 			(effects
 				(font
@@ -44030,7 +44030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 123.19 139.7 0)
 			(effects
 				(font
@@ -44100,7 +44100,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 267.97 208.2799 0)
 			(effects
 				(font
@@ -44109,7 +44109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 263.652 207.01 90)
 			(effects
 				(font
@@ -44188,7 +44188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 256.54 78.74 0)
 			(effects
 				(font
@@ -44258,7 +44258,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 389.89 199.0724 90)
 			(effects
 				(font
@@ -44328,7 +44328,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 323.85 208.2799 0)
 			(effects
 				(font
@@ -44337,7 +44337,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 319.532 207.01 90)
 			(effects
 				(font
@@ -44416,7 +44416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 332.74 58.42 0)
 			(effects
 				(font
@@ -44472,7 +44472,7 @@
 		(at 455.93 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -44540,7 +44540,7 @@
 		(at 474.98 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -44622,7 +44622,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 250.19 199.0724 90)
 			(effects
 				(font
@@ -44678,7 +44678,7 @@
 		(at 436.88 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -44760,7 +44760,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 222.25 199.0724 90)
 			(effects
 				(font
@@ -44830,7 +44830,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 374.65 199.0724 90)
 			(effects
 				(font
@@ -44918,7 +44918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 180.34 119.38 0)
 			(effects
 				(font
@@ -44988,7 +44988,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 207.01 208.2799 0)
 			(effects
 				(font
@@ -44997,7 +44997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 202.692 207.01 90)
 			(effects
 				(font
@@ -45058,7 +45058,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 316.23 199.0724 90)
 			(effects
 				(font
@@ -45128,7 +45128,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 410.21 208.2799 0)
 			(effects
 				(font
@@ -45137,7 +45137,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 405.892 207.01 90)
 			(effects
 				(font
@@ -45216,7 +45216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 294.64 78.74 0)
 			(effects
 				(font
@@ -45286,7 +45286,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 367.03 199.0724 90)
 			(effects
 				(font
@@ -45356,7 +45356,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 262.89 208.2799 0)
 			(effects
 				(font
@@ -45365,7 +45365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 258.572 207.01 90)
 			(effects
 				(font
@@ -45426,7 +45426,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 311.15 208.2799 0)
 			(effects
 				(font
@@ -45435,7 +45435,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 306.832 207.01 90)
 			(effects
 				(font
@@ -45482,7 +45482,7 @@
 		(at 383.54 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -45550,7 +45550,7 @@
 		(at 97.79 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -45632,7 +45632,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 278.107 208.2799 0)
 			(effects
 				(font
@@ -45641,7 +45641,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 273.789 207.01 90)
 			(effects
 				(font
@@ -45688,7 +45688,7 @@
 		(at 307.34 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -45788,7 +45788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 462.28 99.06 0)
 			(effects
 				(font
@@ -45858,7 +45858,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 346.71 199.0724 90)
 			(effects
 				(font
@@ -45914,7 +45914,7 @@
 		(at 383.54 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -45996,7 +45996,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 377.19 199.0724 90)
 			(effects
 				(font
@@ -46066,7 +46066,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 422.91 199.0724 90)
 			(effects
 				(font
@@ -46136,7 +46136,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 255.27 208.2799 0)
 			(effects
 				(font
@@ -46145,7 +46145,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 250.952 207.01 90)
 			(effects
 				(font
@@ -46224,7 +46224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 85.09 58.42 0)
 			(effects
 				(font
@@ -46312,7 +46312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" ""
 			(at 256.54 99.06 0)
 			(effects
 				(font
@@ -46382,7 +46382,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LSM0603443V"
+		(property "Value" "XL-1608UWC-04"
 			(at 189.23 199.0724 90)
 			(effects
 				(font
@@ -46452,7 +46452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 430.507 208.2799 0)
 			(effects
 				(font
@@ -46461,7 +46461,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 426.189 207.01 90)
 			(effects
 				(font
@@ -46522,7 +46522,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "47"
 			(at 245.11 208.2799 0)
 			(effects
 				(font
@@ -46531,7 +46531,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 240.792 207.01 90)
 			(effects
 				(font
